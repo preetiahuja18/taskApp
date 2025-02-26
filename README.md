@@ -39,17 +39,20 @@ Make sure you have the following installed:
 ## 📸 Screenshots
 ### Users List
 
-<img src="https://github.com/user-attachments/assets/0b7c12b3-0e2e-4bc1-8e11-b57cd9261e19" width="300"/>
+<img src="https://github.com/user-attachments/assets/03d50182-d458-4c67-b334-f52ff576f391" width="300"/>
+
 
 ### User Detail Screen
 
-<img src="https://github.com/user-attachments/assets/2e926098-2679-488a-8f11-78c17240d390" width="300"/>
+<img src="https://github.com/user-attachments/assets/fe6e3ed1-2bd1-4909-bc81-92e09ceaabf8" width="300"/>
 
 ### Searching
 
-<img src="https://github.com/user-attachments/assets/1e634eb1-e685-427c-9345-a14de05edb46" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/429f1476-5f82-4cce-80ba-181929997243" width="300"/>
 
 ## 🛠 Technologies Used
+
 - Flutter
 - Dart
 - GetX (for state management)
