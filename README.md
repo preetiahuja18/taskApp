@@ -19,8 +19,8 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/preetiahuja18/UserDetails_App.git
-   cd UserDetails_App
+   git clone https://github.com/preetiahuja18/taskApp.git
+   cd taskApp
    ```
 2. Install dependencies:
    ```sh
